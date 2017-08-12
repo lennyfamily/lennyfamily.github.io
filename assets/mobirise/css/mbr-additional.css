@@ -852,6 +852,19 @@ pre {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qs6IyUUNjo {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qs6IyUUNjo .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qs6IyUUNjo .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qrPPQxCBWx {
   padding-top: 90px;
   padding-bottom: 90px;
